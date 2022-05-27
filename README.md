@@ -1,4 +1,4 @@
-# personal-gists
+# personal-python-gists
 Various examples of potentially interesting code
 
 Code snippets mainly cover:
